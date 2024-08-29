@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Peggy</h1>
 <h3 align="center">From NCHU CSE. Interest in CTF, APP development, frontend and backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimpeggy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimpeggy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiimpeggy" alt="hiimpeggy" /></a> </p>
 
 - 🌱 I’m currently learning **CTF, App**
 
