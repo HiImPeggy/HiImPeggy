@@ -2,7 +2,6 @@
 <h3 align="center">From NCHU CSE. Interest in CTF, APP development, frontend and backend development.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
