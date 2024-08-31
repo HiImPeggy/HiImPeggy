@@ -10,4 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiimpeggy&show_icons=true&locale=en&layout=compact" alt="hiimpeggy" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiImPeggy&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiImPeggy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiImPeggy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiImPeggy&theme=default)
