@@ -26,7 +26,7 @@
 - [DbProject](https://github.com/HiImPeggy/DbProject)：資料庫課程專案
 - [PicoCTF](https://github.com/HiImPeggy/PicoCTF)：練習 picoCTF 裡的題目
 - [Postestimation](https://github.com/HiImPeggy/Postestimation)、[ImageClassified](https://github.com/HiImPeggy/ImageClassified)：練習 flutter 和 dart 開發 APP 
-- [ObjectDetection](https://github.com/HiImPeggy/ObjectDetection)：使用 Kotlin + tensorflowlie，製作偵測物品的 APP
+- [ObjectDetection](https://github.com/HiImPeggy/ObjectDetection)：使用 Kotlin + tensorflowlite，製作偵測物品的 APP
 - [StyleTransfer](https://github.com/HiImPeggy/StyleTransfer)：利用 Django + vgg model，製作圖片風格轉換的網站
 
 
