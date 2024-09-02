@@ -18,4 +18,4 @@
 
 
 <h3 align="left">課程專案:</h3>
-組合語言與系統程式：[2 pass assembler](https://github.com/HiImPeggy/2-Pass-assembler)
+組合語言與系統程式：[2-pass-assembler](https://github.com/HiImPeggy/2-Pass-assembler)
