@@ -16,6 +16,26 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiImPeggy&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiImPeggy&theme=default)
 
+<h3 align="left">Project:</h3>
 
-<h3 align="left">課程專案:</h3>
-組合語言與系統程式：[2-pass-assembler](https://github.com/HiImPeggy/2-Pass-assembler)
+[2-pass-assembler](https://github.com/HiImPeggy/2-Pass-assembler)：組合語言與系統程式專案
+
+[Camera-track-base-on-human-face](https://github.com/HiImPeggy/Camera-track-base-on-human-face)：AIOT課程專案
+
+[Bitmap](https://github.com/HiImPeggy/Bitmap)、[Threads-and-Concurrency](https://github.com/HiImPeggy/Threads-and-Concurrency)、[Mutex](https://github.com/HiImPeggy/Mutex)：作業系統課程專案
+
+[Dinasaur game](https://github.com/HiImPeggy/PythonProjcet-DinosaurGame)：Python課程專案
+
+[Serpent加密](https://github.com/HiImPeggy/SerpentEncrypt)：密碼學課程專案
+
+[DbProject](https://github.com/HiImPeggy/DbProject)：資料庫課程專案
+
+[PicoCTF](https://github.com/HiImPeggy/PicoCTF)：練習 picoCTF 裡的題目
+
+[Postestimation](https://github.com/HiImPeggy/Postestimation)、[ImageClassified](https://github.com/HiImPeggy/ImageClassified)：練習 flutter 和 dart 開發 APP (尚未完成)
+
+[ObjectDetection](https://github.com/HiImPeggy/ObjectDetection)：使用 Kotlin + tensorflowlie，製作偵測物品的 APP
+
+[StyleTransfer](https://github.com/HiImPeggy/StyleTransfer)：利用 Django + vgg model，製作圖片風格轉換的網站
+
+
