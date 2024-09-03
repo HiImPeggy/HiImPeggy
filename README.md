@@ -29,4 +29,4 @@
 - [ObjectDetection](https://github.com/HiImPeggy/ObjectDetection)：使用 Kotlin + tensorflowlite，製作偵測物品的 APP
 - [StyleTransfer](https://github.com/HiImPeggy/StyleTransfer)：利用 Django + vgg model，製作圖片風格轉換的網站
 - [ColorTheory](https://github.com/HiImPeggy/ColorTheory)：色彩學實作與應用課程作業
-- [ColorTheory](https://github.com/HiImPeggy/IR)：資料檢索作業，製作中英文反向索引
+- [IR](https://github.com/HiImPeggy/IR)：資料檢索作業，製作中英文反向索引
