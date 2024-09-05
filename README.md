@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peggy</h1>
 <h3 align="center">Graduated from NCHU CSE. Now learing in CTF, also curious about Self-driving automobile, LLM, IR etc.  </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimpeggy&label=Profile%20views&color=0e75b6&style=flat" alt="hiimpeggy" /> </p>
 
 <p align="left">
 </p>
