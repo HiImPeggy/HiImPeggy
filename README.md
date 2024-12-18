@@ -23,7 +23,6 @@
 - [Camera-track-base-on-human-face](https://github.com/HiImPeggy/Camera-track-base-on-human-face)：AIOT課程專案
 - [Bitmap](https://github.com/HiImPeggy/Bitmap)、[Threads-and-Concurrency](https://github.com/HiImPeggy/Threads-and-Concurrency)、[Mutex](https://github.com/HiImPeggy/Mutex)：作業系統課程專案
 - [Dinasaur game](https://github.com/HiImPeggy/PythonProjcet-DinosaurGame)：Python課程專案
-- [Serpent加密](https://github.com/HiImPeggy/SerpentEncrypt)：密碼學課程專案
 - [DbProject](https://github.com/HiImPeggy/DbProject)：資料庫課程專案
 - [PicoCTF](https://github.com/HiImPeggy/PicoCTF)：練習 picoCTF 裡的題目
 - [Postestimation](https://github.com/HiImPeggy/Postestimation)、[ImageClassified](https://github.com/HiImPeggy/ImageClassified)：練習 flutter 和 dart 開發 APP 
