@@ -3,7 +3,6 @@
 ## ABOUT ME
 - Becholor in Computer Science at NCHU ( Graduated )
 - MS in Network Engineering at NYCU ( Studying )
-- Email address: blodgost@gmail.com
 
 ## GITHUB USAGE
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiImPeggy&theme=ayu_mirage)
