@@ -5,7 +5,7 @@
 - MS in Network Engineering at NYCU ( Studying )
 
 ## CONTACT ME
-email: peggycheng.cs13@nycu.edu.tw
+✉: peggycheng.cs13@nycu.edu.tw
 
 
 ## GITHUB USAGE
